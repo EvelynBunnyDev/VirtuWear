@@ -32,51 +32,51 @@ const preGeneratedDesigns: CostumeDesign[] = [
     id: 'pre-1',
     imageUrl: cool,
     description: 'Yomorio Sexy Kimono Lingerie Costume Japanese Anime Cosplay - Elegant black silk with intricate floral patterns and obi sash',
-    price: 399.99
+    price: 299.99
   },
   {
     id: 'pre-2',
     imageUrl: glinda,
     description: 'Cyberpunk Lucy Cosplay Costume Bodysuit Set - Complete with neon accents, tactical harness, and chrome details',
-    price: 479.99
+    price: 179.99
   },
   {
     id: 'pre-3',
     imageUrl: hefu,
     description: 'Scarlet Witch Full Costume Set - Includes signature headpiece, bodysuit, and flowing cape with detailed embroidery',
-    price: 499.99
+    price: 299.99
   },
   {
     id: 'pre-4',
     imageUrl: moonlight,
     description: 'FGO Ruler Joan Of Arc Black Jeanne Cosplay Costume - Complete armor set with cape and battle flag',
-    price: 459.99
+    price: 259.99
   },
   {
     id: 'pre-5',
     imageUrl: witch,
     description: 'Queen Padme Amidala Ceremonial Gown - Intricately detailed throne room dress with headdress and jewelry',
-    price: 489.99
+    price: 289.99
   },
   {
     id: 'pre-6',
     imageUrl: red,
     description: '2B NieR: Automata Full Costume Set - Including dress, boots, gloves, and signature blindfold',
-    price: 449.99,
+    price: 249.99,
     previewImage: lady
   },
   {
     id: 'pre-7',
     imageUrl: royal,
     description: 'Royal Lady Elegant Ball Gown - Luxurious satin and lace with crystal embellishments and cathedral train',
-    price: 899.99,
+    price: 399.99,
     previewImage: royalLady
   },
   {
     id: 'pre-8',
     imageUrl: ww,
     description: 'Wonder Woman Warrior Costume - Complete with armor, tiara, gauntlets, and lasso',
-    price: 599.99
+    price: 199.99
   }
 ];
 
